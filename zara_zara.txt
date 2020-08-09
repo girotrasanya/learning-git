@@ -1,0 +1,2 @@
+Hello this is master commit.
+This is going to be fun
